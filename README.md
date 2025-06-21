@@ -40,7 +40,7 @@ Visit `http://localhost:3000` to view the app in your browser.
 ## Default image
 
 You can change the image by:
-- Replacing the default `/public/assets/imgs/devImg.jpg`
+- Replacing the default `/public/assets/imgs/demo.jpg`
 
 ---
 
